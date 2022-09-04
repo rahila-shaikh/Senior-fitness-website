@@ -1,0 +1,27 @@
+.card
+{
+    position: absolute;
+   
+}
+.card1
+{
+    margin: 0%;
+
+
+}
+.card2
+{
+    margin: 0%;
+    left: 25%;
+
+}
+.card3
+{
+  margin: 0%;
+    left: 50%;
+}
+.card4
+{
+    margin: 0%;
+    left: 75%;
+}

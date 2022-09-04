@@ -1,0 +1,26 @@
+
+
+.heading h1
+{
+    font-family: sans-serif;
+    color: #250c0c;
+    text-align: center;
+    margin-top: 1%;
+    font: bold;
+}
+
+
+.btn
+{
+    width: 25%;
+    font-size: 1.2rem;
+    
+    
+}
+.btn1
+{
+    position: absolute;
+    right: 35%;
+    
+}
+
